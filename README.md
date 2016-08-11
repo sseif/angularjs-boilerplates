@@ -29,4 +29,4 @@ A collection of AngularJS boilerplates and scaffolding tools to rapidly bootstra
 - https://github.com/swiip/generator-gulp-angular
 
 ## Contributing
-Contributions are most welcome!
+Just drop me a PR :trumpet:
